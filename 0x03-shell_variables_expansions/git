@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "input commit message"
 red var
 git add .
